@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "111786729452",
+    "firebase_url": "https://maxmovies-a239a.firebaseio.com",
+    "project_id": "maxmovies-a239a",
+    "storage_bucket": "maxmovies-a239a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111786729452:android:2d90cacecbf1c6f8",
+        "android_client_info": {
+          "package_name": "com.example.alice.maxmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111786729452-squp18lg5ak6eent923ppa2toun9c808.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alice.maxmovies",
+            "certificate_hash": "a8d364fb7dd486e69f84b5143fb69195fc9c7b22"
+          }
+        },
+        {
+          "client_id": "111786729452-io76kmsls88a6v76qgitl7s4cvub0qo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWOePJ9Nr_X9RtRYV6w8yZ0cN6lFmHqcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111786729452-io76kmsls88a6v76qgitl7s4cvub0qo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
