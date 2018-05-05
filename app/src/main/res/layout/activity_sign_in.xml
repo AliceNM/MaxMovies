@@ -16,16 +16,16 @@
 
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="110dp"
+            android:layout_height="210dp"
             android:src="@drawable/logo"
-            android:layout_centerInParent="true"/>
+            android:contentDescription="@string/todo" />
 
 
         <TextView
             android:id="@+id/status_textview"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="singin with google" />
+            android:text="@string/singin_with_google" />
 
         <com.google.android.gms.common.SignInButton
             android:id="@+id/sign_in_button"
@@ -36,7 +36,7 @@
             android:id="@+id/signOutButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="sign out" />
+            android:text="@string/sign_out" />
 
 
     </LinearLayout>

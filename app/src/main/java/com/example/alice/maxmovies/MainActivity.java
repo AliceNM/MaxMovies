@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Button mFindMoviesButton = findViewById(R.id.findMoviesButton);
         mFindMoviesButton.setOnClickListener(new View.OnClickListener() {
+
             @Override
 
             public void onClick(View v) {

@@ -11,12 +11,13 @@
         android:layout_height="match_parent"
         android:id="@+id/imageView"
         android:src="@drawable/bg"
-        android:scaleType="centerCrop" />
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/todo" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Movies"
+        android:text="@string/movies"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
@@ -29,7 +30,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Watch Movies"
+        android:text="@string/watch_movies"
         android:id="@+id/findMoviesButton"
         android:background="@color/colorAccent"
         android:textColor="@color/colorIcons"
