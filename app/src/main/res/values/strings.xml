@@ -5,5 +5,8 @@
     <string name="watch_movies">Watch Movies</string>
     <string name="singin_with_google">singin with google</string>
     <string name="sign_out">sign out</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="action_add_favourite">Add to Favourites</string>
     <string name="this_season_top_100_movies">This season top 100 movies</string>
 </resources>
